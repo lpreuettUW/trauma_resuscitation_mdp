@@ -75,7 +75,9 @@ conda activate trauma_resuscitation_mdp
 pip install -r requirements.txt
 ```
 ## 4️⃣ Download the Trauma ICU Resuscitation dataset
-Download the dataset from TBD.
+Request the dataset from either
+- Larry Preuett: lpreuett@uw.edu or larrypreuett@gmail.com
+- Dr. Grant O'Keefe: gokeefe@uw.edu
 ## 5️⃣ Update Paths
 Replace all instances of <path_to_dataset> in the codebase with the path to your downloaded dataset.<br>
 Replace all instances of <path_to_repo> with the path to your cloned repository.<br>
